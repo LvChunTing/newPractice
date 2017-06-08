@@ -2,3 +2,6 @@ master分支上进行的编辑
 
 
 在master分支上编辑文件 newText  想要在dev分支上看到这次编辑
+
+
+这是在dev分支上做的改动   想要在master分支上直接合并这个文件
